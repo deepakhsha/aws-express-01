@@ -1,0 +1,4 @@
+--start of file
+create new public repo aws-express-01
+Write a python script to read a file and display the contents to a console.
+--end of file
